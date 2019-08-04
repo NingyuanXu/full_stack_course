@@ -36,10 +36,8 @@ section.blum>h2 {
     background-color: #76b8db;
 }
 
-
-
 section.andrew>h2 {
-    color: #4f7acd;
+    background-color: #4f7acd;
 }
 
 section.booth>h2 {
@@ -48,7 +46,7 @@ section.booth>h2 {
 }
 
 section>p {
-    padding: 40px 15px 15px 15px;
+    padding: 50px 15px 15px 15px;
 }
 
 .row {
